@@ -97,5 +97,11 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup />
+  <ItemGroup>
+    <Content Include="Capturas\Evaluando1.png" />
+    <Content Include="Capturas\Evaluando2.png" />
+    <Content Include="Capturas\VistaFormulario.png" />
+    <Content Include="Capturas\VisualizacionPedidos.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
