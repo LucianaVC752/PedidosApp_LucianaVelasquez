@@ -24,8 +24,6 @@
 
 ## 🖼️ Capturas de pantalla
 
-> 📌 Coloca tus imágenes en una carpeta `Capturas` y usa la ruta aquí.
-
 ### Capturas Vista Forms
 ![Formulario](PedidosApp/Capturas/VistaFormulario.png)
 ![Formulario](PedidosApp/Capturas/VisualizacionPedidos.png)
@@ -35,6 +33,11 @@
 
 ---
 
+## 🎥 Video demostracion
+
+[Ver en Google Drive](https://drive.google.com/file/d/1w7eHbuTlBiWV95UDwVHBB34FJiuzdhLd/view?usp=sharing)
+
+---
 ## 📁 Estructura del Proyecto
 
 ```plaintext
@@ -57,4 +60,6 @@ PedidosApp/
     ├── Evaluando2.png
     ├── VisualizacionPedidos.png
     └── VistaFormulario.png
+
+
 
