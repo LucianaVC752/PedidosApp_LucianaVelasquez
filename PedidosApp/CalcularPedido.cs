@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace PedidosApp
 {
-    public partial class Form1 : Form
+    public partial class CalcularPedido : Form
     {
-        public Form1()
+        public CalcularPedido()
         {
             InitializeComponent();
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
