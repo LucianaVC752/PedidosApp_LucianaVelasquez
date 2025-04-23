@@ -1,5 +1,6 @@
 ﻿using PedidosApp.Clases;
 using PedidosApp.Interfaces;
+using PedidosApp.Listados;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,14 +14,14 @@ namespace PedidosApp.Factory
         public static IMetodoEntrega CrearEntrega(string tipoProducto, bool urgente, double
         peso)
         {
-            if (tipoProducto == "tecnología" && urgente)
+            if (tipoProducto == NombreProductos.tecnologia.ToString() && urgente)
                 return new EntregaDron();
-            else if (tipoProducto == "accesorio")
+            else if (tipoProducto == NombreProductos.accesorio.ToString())
                 return new EntregaMoto();
-            else if (tipoProducto == "componente" || peso > 10)
+            else if (tipoProducto == NombreProductos.componente.ToString() || peso > 10)
                 return new EntregaCamion();
             else
-                return new EntregaMoto(); // valor por defecto
+                return new EntregaMoto(); 
         }
     }
 }

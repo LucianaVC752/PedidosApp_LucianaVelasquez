@@ -1,4 +1,5 @@
-﻿using PedidosApp.Interfaces;
+﻿using PedidosApp.Factory;
+using PedidosApp.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,14 +10,16 @@ namespace PedidosApp
 {
     public class Pedido
     {
+        public string Id { get; set; }
         public string Cliente { get; set; }
         public string Producto { get; set; }
         public bool Urgente { get; set; }
         public double Peso { get; set; }
-        public int Distancia { get; set; }
+        public  int Distancia { get; set; }
         public IMetodoEntrega MetodoEntrega { get; set; }
-        public Pedido(string cliente, string producto, bool urgente, double peso, int distancia)
+        public Pedido(string id, string cliente, string producto, bool urgente, double peso, int distancia)
         {
+            Id = id;
             Cliente = cliente;
             Producto = producto;
             Urgente = urgente;
