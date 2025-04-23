@@ -86,7 +86,9 @@ namespace PedidosApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            VPedidos vPedidos = new VPedidos();
+            vPedidos.Show();
+            this.Hide();
         }
     }
 }

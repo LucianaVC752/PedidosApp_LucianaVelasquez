@@ -8,3 +8,4 @@ C:\Users\hp\OneDrive - pascualbravo.edu.co\Herramientas II\PedidosApp\PedidosApp
 C:\Users\hp\OneDrive - pascualbravo.edu.co\Herramientas II\PedidosApp\PedidosApp\obj\Debug\PedidosApp.csproj.CoreCompileInputs.cache
 C:\Users\hp\OneDrive - pascualbravo.edu.co\Herramientas II\PedidosApp\PedidosApp\obj\Debug\PedidosApp.exe
 C:\Users\hp\OneDrive - pascualbravo.edu.co\Herramientas II\PedidosApp\PedidosApp\obj\Debug\PedidosApp.pdb
+C:\Users\hp\OneDrive - pascualbravo.edu.co\Herramientas II\PedidosApp\PedidosApp\obj\Debug\PedidosApp.VPedidos.resources

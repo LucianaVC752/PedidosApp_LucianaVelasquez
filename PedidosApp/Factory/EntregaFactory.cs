@@ -16,10 +16,10 @@ namespace PedidosApp.Factory
         {
             if (tipoProducto == NombreProductos.tecnologia.ToString() && urgente)
                 return new EntregaDron();
-            else if (tipoProducto == NombreProductos.accesorio.ToString())
-                return new EntregaMoto();
             else if (tipoProducto == NombreProductos.componente.ToString() || peso > 10)
                 return new EntregaCamion();
+            else if (tipoProducto == NombreProductos.accesorio.ToString())
+                return new EntregaMoto();
             else
                 return new EntregaMoto(); 
         }

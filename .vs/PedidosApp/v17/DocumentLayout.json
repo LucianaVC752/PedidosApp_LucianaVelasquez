@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\PedidosApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F0C8FC0E-905C-4ABC-927D-70F6E0D76921}|PedidosApp\\PedidosApp.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\PedidosApp\\pedidosapp\\factory\\entregafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C8FC0E-905C-4ABC-927D-70F6E0D76921}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\factory\\entregafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0C8FC0E-905C-4ABC-927D-70F6E0D76921}|PedidosApp\\PedidosApp.csproj|c:\\users\\hp\\onedrive - pascualbravo.edu.co\\herramientas ii\\pedidosapp\\pedidosapp\\calcularpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0C8FC0E-905C-4ABC-927D-70F6E0D76921}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\calcularpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +15,12 @@
       "RelativeMoniker": "D:0:0:{F0C8FC0E-905C-4ABC-927D-70F6E0D76921}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\calcularpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0C8FC0E-905C-4ABC-927D-70F6E0D76921}|PedidosApp\\PedidosApp.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\PedidosApp\\pedidosapp\\factory\\entregafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0C8FC0E-905C-4ABC-927D-70F6E0D76921}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\factory\\entregafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0C8FC0E-905C-4ABC-927D-70F6E0D76921}|PedidosApp\\PedidosApp.csproj|c:\\users\\hp\\onedrive - pascualbravo.edu.co\\herramientas ii\\pedidosapp\\pedidosapp\\vpedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C8FC0E-905C-4ABC-927D-70F6E0D76921}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\vpedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C8FC0E-905C-4ABC-927D-70F6E0D76921}|PedidosApp\\PedidosApp.csproj|c:\\users\\hp\\onedrive - pascualbravo.edu.co\\herramientas ii\\pedidosapp\\pedidosapp\\vpedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0C8FC0E-905C-4ABC-927D-70F6E0D76921}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\vpedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0C8FC0E-905C-4ABC-927D-70F6E0D76921}|PedidosApp\\PedidosApp.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\PedidosApp\\pedidosapp\\clases\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +66,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VPedidos.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\PedidosApp\\PedidosApp\\VPedidos.cs",
+              "RelativeDocumentMoniker": "PedidosApp\\VPedidos.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\PedidosApp\\PedidosApp\\VPedidos.cs",
+              "RelativeToolTip": "PedidosApp\\VPedidos.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA2wDMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:05:03.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "VPedidos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\PedidosApp\\PedidosApp\\VPedidos.cs",
+              "RelativeDocumentMoniker": "PedidosApp\\VPedidos.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\PedidosApp\\PedidosApp\\VPedidos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PedidosApp\\VPedidos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:03:14.385Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Productos.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\PedidosApp\\PedidosApp\\Listados\\Productos.cs",
               "RelativeDocumentMoniker": "PedidosApp\\Listados\\Productos.cs",
@@ -66,25 +99,24 @@
               "RelativeToolTip": "PedidosApp\\Listados\\Productos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T21:14:21.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T21:14:21.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CalcularPedido.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\PedidosApp\\PedidosApp\\CalcularPedido.cs",
               "RelativeDocumentMoniker": "PedidosApp\\CalcularPedido.cs",
               "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\PedidosApp\\PedidosApp\\CalcularPedido.cs",
               "RelativeToolTip": "PedidosApp\\CalcularPedido.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAArwE4AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAADwv1wAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T20:54:07.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CalcularPedido.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\PedidosApp\\PedidosApp\\CalcularPedido.cs",
               "RelativeDocumentMoniker": "PedidosApp\\CalcularPedido.cs",
@@ -96,20 +128,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "EntregaFactory.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\PedidosApp\\PedidosApp\\Factory\\EntregaFactory.cs",
               "RelativeDocumentMoniker": "PedidosApp\\Factory\\EntregaFactory.cs",
               "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\PedidosApp\\PedidosApp\\Factory\\EntregaFactory.cs",
               "RelativeToolTip": "PedidosApp\\Factory\\EntregaFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T20:18:22.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\PedidosApp\\PedidosApp\\Clases\\Pedido.cs",
               "RelativeDocumentMoniker": "PedidosApp\\Clases\\Pedido.cs",
@@ -117,12 +149,11 @@
               "RelativeToolTip": "PedidosApp\\Clases\\Pedido.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T20:17:01.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T20:17:01.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "EntregaCamion.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\PedidosApp\\PedidosApp\\Clases\\EntregaCamion.cs",
               "RelativeDocumentMoniker": "PedidosApp\\Clases\\EntregaCamion.cs",
@@ -134,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "EntregaMoto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\PedidosApp\\PedidosApp\\Clases\\EntregaMoto.cs",
               "RelativeDocumentMoniker": "PedidosApp\\Clases\\EntregaMoto.cs",
