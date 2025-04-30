@@ -30,7 +30,16 @@
 ### Resultado de un pedido
 ![Resultado](PedidosApp/Capturas/Evaluando1.png)
 ![Resultado](PedidosApp/Capturas/Evaluando2.png)
+### Nuevas Categorías
+![Resultado](PedidosApp/Capturas/MostarNuevaCategoria.png)
+### Resultados de Filtros
+![Resultado](PedidosApp/Capturas/FiltroMotocicleta.png)
+![Resultado](PedidosApp/Capturas/FiltroDron.png)
+![Resultado](PedidosApp/Capturas/FiltroBicicleta.png)
+![Resultado](PedidosApp/Capturas/FirloCamion.png)
 
+##Nuevos Resultados
+![Resultado](PedidosApp/Capturas/Historial.png)
 ---
 
 ## 🎥 Video demostracion
