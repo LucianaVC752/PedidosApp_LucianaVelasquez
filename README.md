@@ -33,13 +33,14 @@
 ### Nuevas Categorías
 ![Resultado](PedidosApp/Capturas/MostarNuevaCategoria.png)
 ### Resultados de Filtros
-![Resultado](PedidosApp/Capturas/FiltroMotocicleta.png)
-![Resultado](PedidosApp/Capturas/FiltroDron.png)
-![Resultado](PedidosApp/Capturas/FiltroBicicleta.png)
-![Resultado](PedidosApp/Capturas/FirloCamion.png)
+![Resultado](Capturas/FiltroMotocicleta.png)
+![Resultado](Capturas/FiltroDron.png)
+![Resultado](Capturas/FiltroBicicleta.png)
+![Resultado](Capturas/FirloCamion.png)
 
 ##Nuevos Resultados
-![Resultado](PedidosApp/Capturas/Historial.png)
+![Resultado](Capturas/Historial.png)
+
 ---
 
 ## 🎥 Video demostracion
